@@ -1,0 +1,3 @@
+The best business model for Company X is Freemium.
+The best business model for Company Y is Subscription.
+The best business model for Company Z is Product-as-a-service.
